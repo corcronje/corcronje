@@ -1,6 +1,6 @@
 # Cor Cronje
 
-### Senior Full-Stack Engineer | Hardware Hacker | AI-Accelerated Technical Builder
+### Principal Full-Stack Engineer | Technical Lead | AI-Enabled Systems Architect
 
 I build production systems across software, computing infrastructure, network infrastructure, IoT, and hardware.
 
@@ -8,7 +8,7 @@ Since 2001, I have delivered business applications, mobile apps, backend platfor
 
 I work where software meets systems and hardware. I use AI agents, coding assistants, and automation to move fast and deliver more, while keeping the standard high: clear thinking, professional execution, and production discipline.
 
-## What You Get With Me
+## Why work with me
 
 - A builder who understands the full stack in the real sense: software, infrastructure, networks, devices, and hardware.
 - Someone who has built production applications and production electronics, not only demos or prototypes.
